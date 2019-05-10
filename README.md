@@ -24,3 +24,5 @@
 11. protobuf https://developers.google.com/protocol-buffers/docs/proto3 官网
 
 12. https://github.com/urfave/cli 一个在go中间构建命令行应用程序的库
+
+13. float64 https://github.com/shopspring/decimal 精度问题处理库
