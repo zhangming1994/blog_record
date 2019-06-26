@@ -28,3 +28,5 @@
 13. float64 https://github.com/shopspring/decimal 精度问题处理库
 
 14. https://moonshining.github.io/tags/ 一个博客 goim等各种详细分析
+
+15. https://blog.csdn.net/weiwangchao_/article/details/82023191 grpc解释和grpc的服务发现 负载均衡
